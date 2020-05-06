@@ -9,7 +9,7 @@ pigeon_data = {
     :male => ["Alex", "Theo", "Peter Jr.", "Andrew", "Lucky"],
     :female => ["Queenie", "Ms. K"]
   },
-  :lives => { #attribute
+  :lives => { # attribute
     "Subway" => ["Theo", "Queenie"],
     "Central Park" => ["Alex", "Ms. K", "Lucky"],
     "Library" => ["Peter Jr."],
