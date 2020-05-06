@@ -5,11 +5,11 @@ pigeon_data = {
     :white => ["Queenie", "Andrew", "Ms. K", "Alex"],
     :brown => ["Queenie", "Alex"]
   },
-  :gender => {
+  :gender => { # attribute
     :male => ["Alex", "Theo", "Peter Jr.", "Andrew", "Lucky"],
     :female => ["Queenie", "Ms. K"]
   },
-  :lives => {
+  :lives => { #attribute
     "Subway" => ["Theo", "Queenie"],
     "Central Park" => ["Alex", "Ms. K", "Lucky"],
     "Library" => ["Peter Jr."],
