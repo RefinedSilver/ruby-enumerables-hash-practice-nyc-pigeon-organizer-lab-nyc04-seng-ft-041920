@@ -1,5 +1,5 @@
 pigeon_data = {
-  :color => {
+  :color => { # attribute
     :purple => ["Theo", "Peter Jr.", "Lucky"],
     :grey => ["Theo", "Peter Jr.", "Ms. K"],
     :white => ["Queenie", "Andrew", "Ms. K", "Alex"],
