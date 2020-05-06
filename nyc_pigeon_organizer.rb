@@ -24,7 +24,6 @@ def nyc_pigeon_organizer(data)
       p "The attrib variable is equal to: #{attrib}"
     end
   p "=============================================="
-#=end=begin #
    end
 end
 nyc_pigeon_organizer(pigeon_data)
