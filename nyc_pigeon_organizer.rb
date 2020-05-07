@@ -41,7 +41,7 @@ def nyc_pigeon_organizer(data)
   #p "=============================================="
    end
 end
-nyc_pigeon_organizer(pigeon_data)
+# nyc_pigeon_organizer(pigeon_data)
 #Questions
 
 # On line 6. why do we need to reach into the nest
