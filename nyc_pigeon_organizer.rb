@@ -23,6 +23,7 @@ def nyc_pigeon_organizer(data)
     v_hash.each do |attrib, name_array|
       p "The attrib variable is equal to: #{attrib}"
     end
+    name_array.each { |k| puts k }
   p "=============================================="
    end
 end
