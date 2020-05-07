@@ -27,7 +27,7 @@ def nyc_pigeon_organizer(data)
       name_array.each do |name|
         binding.pry
         p "The name_array variable is equal to: #{standard}"
-        if !pigeons[name] 
+        if !pigeons[name]
           pigeons[name] = {}
       end
     end
