@@ -1,3 +1,4 @@
+require 'pry'
 pigeon_data = {
   :color => { # attribute
     :purple => ["Theo", "Peter Jr.", "Lucky"],
