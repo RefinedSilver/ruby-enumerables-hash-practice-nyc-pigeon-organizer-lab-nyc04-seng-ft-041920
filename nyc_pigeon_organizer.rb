@@ -31,9 +31,9 @@ def nyc_pigeon_organizer(data)
           pigeons[name] = {}
         end
         if !new_hash[name][key]
-          new_hash[name][key] = []
+          pigeons[name][key] = []
         end
-        new_hash[name][key] << attrib.to_s
+        pigeons[name][key] << attrib.to_s
       end
     end
    end
