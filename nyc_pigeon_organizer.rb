@@ -22,8 +22,8 @@ def nyc_pigeon_organizer(data)
     p "The c_g_l variable is equal to: #{color_gender_lives}"
     v_hash.each do |attrib, name_array|
       p "The attrib variable is equal to: #{attrib}"
-      name_array.each do |k,v|
-        p "The name_array variable is equal to: #{name_array[v][1]}"
+      name_array.each do |k,v| standard = name_array[v][1]
+        p "The name_array variable is equal to: #{}"
       end
     end
   #p "=============================================="
