@@ -29,6 +29,7 @@ def nyc_pigeon_organizer(data)
         p "The name_array variable is equal to: #{standard}"
         if !pigeons[name]
           pigeons[name] = {}
+        end
       end
     end
   #p "=============================================="
