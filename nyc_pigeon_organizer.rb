@@ -19,6 +19,7 @@ pigeon_data = {
 }
 
 def nyc_pigeon_organizer(data)
+  pigeons = {}
   data.each do |color_gender_lives, v_hash|
     p "The c_g_l variable is equal to: #{color_gender_lives}"
     v_hash.each do |attrib, name_array|
