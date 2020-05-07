@@ -24,7 +24,7 @@ def nyc_pigeon_organizer(data)
       p "The attrib variable is equal to: #{attrib} along with #{name_array}"
       name_array.each { |k,v| puts [v][1] }
     end
-  p "=============================================="
+  #p "=============================================="
    end
 end
 nyc_pigeon_organizer(pigeon_data)
